@@ -1,0 +1,4 @@
+FROM almalinux:9
+LABEL COURSE="DEVOPS" \
+      OWNER="RAGHU" \
+      DURATION="2HRS" 
